@@ -12,3 +12,6 @@ RUN bash -c 'mqsibar -w /home/aceuser/ace-server -a /tmp/$BAR1 -c'
 #DA RUN sed -i 's/adminRestApiPort/#adminRestApiPort/g' /home/aceuser/ace-server/server.conf.yaml 
 
 # We inherit the command from the base layer
+
+# Expose ports
+EXPOSE 7800 7600
