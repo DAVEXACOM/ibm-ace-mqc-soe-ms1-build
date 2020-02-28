@@ -14,4 +14,4 @@ RUN bash -c 'mqsibar -w /home/aceuser/ace-server -a /tmp/$BAR1 -c'
 # We inherit the command from the base layer
 
 # Expose ports
-EXPOSE 7800 7600
+EXPOSE 7800
