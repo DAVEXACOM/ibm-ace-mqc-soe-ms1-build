@@ -1,6 +1,6 @@
-# ACE on ICP Integration Micro services Integration Micro service 1 Image build
+# ACE on ICP4i Integration Micro services Integration Micro service 1 Image build
 
-IBM App Connect Enteprise on IBM Cloud Private to Microservices Principles - Integration MicroService 1 Image
+IBM App Connect Enteprise on IBM Cloud Pak for Integration to Microservices Principles - Integration MicroService 1 Image
 
 
 
